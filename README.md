@@ -61,5 +61,6 @@ in Africa.
 
 Data preprocessing was done on the data to clean and transform the data for analysis.
 
-  + Data Cleaning: Identifying the extent of missing values and outliers in the dataset. 
+  + Data Cleaning and Quality Evaluation: Identifying the extent of missing values and outliers in the dataset. 
 ![.](IMG-20240505-WA0000.jpg)
+
