@@ -64,3 +64,5 @@ Data preprocessing was done on the data to clean and transform the data for anal
   + Data Cleaning and Quality Evaluation: Identifying the extent of missing values and outliers in the dataset. 
 ![.](IMG-20240505-WA0000.jpg)
 
+
+Africa (excluding high income) has seen the most substantial growth. However, it still has the lowest access rate compared to the other regions depicted. The Middle East & North Africa region maintains the highest rate of electricity access, consistently above 80% since 1990. The data/graph    suggests a positive trend towards increasing electricity access, which is crucial for development and quality of life.
