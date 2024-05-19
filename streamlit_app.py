@@ -4,7 +4,7 @@ import numpy as np
 import altair as alt
 
 # Constants
-ELECTRICITY = pd.read_csv('Predicted_Dataset_mean_lasso_ridge_linear.csv')
+ELECTRICITY = pd.read_csv('./CSVs/Predicted_Dataset_mean_lasso_ridge_linear.csv')
 ELECTRICITY = ELECTRICITY.set_index('Country Name') 
 country_list = [
     "Africa Western and Central",
