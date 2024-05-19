@@ -35,3 +35,31 @@ To effectively tackle this challenge, robust forecasting techniques like the ARI
 to project electricity access levels until 2030. This approach aligns with the recommendations of scholars 
 like Ma et al. (2019), who advocate for extended-duration forecasting models to address the complexities of 
 energy access planning in African countries.
+
+
+## Objectives:
+    
+   + Analyze historical trends in electricity access across African countries relative to region and
+income.
+
+   + Identify similarities, differences, and patterns in electricity access among African countries.
+    
+   + Develop predictive models to forecast future electricity access levels based on regional and
+income data.
+
+   + Provide valuable analysis to inform targeted interventions for understanding electricity access
+in Africa.
+
+# Methodology
+
+## Research and Data Collection
+   Datasets: The data for this project was gotten from the World Bank data on Access to electricity - https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS
+
+
+## Data Pre-processing
+
+
+Data preprocessing was done on the data to clean and transform the data for analysis.
+
+  + Data Cleaning: Identifying the extent of missing values and outliers in the dataset. 
+![.](IMG-20240505-WA0000.jpg)
