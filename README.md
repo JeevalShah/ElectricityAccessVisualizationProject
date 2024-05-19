@@ -1,3 +1,3 @@
 
 # Predictive-Modeling-of-Electricity-Access-in-Africa
-![.](image1.jpg)
+![.](image1.jpeg)
