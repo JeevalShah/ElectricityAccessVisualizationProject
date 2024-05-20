@@ -73,7 +73,9 @@ Data preprocessing was done on the data to clean and transform the data for anal
  + Descriptive Statistics of Electricity Access in Africa 
 ![.](Descriptive_Statistics_of_Electricity_Access_in_Africa.jpg)
 
-  + Electricity Access Percentage by Income Group
+
++ Electricity Access Percentage by Income Group
+
 ![.](Electricity_Access_Percentage_by_Income_Group.jpg)
 
  + Mean Electricity Access (1990-2021)
