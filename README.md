@@ -136,8 +136,22 @@ The data analysis, also reveals that there is a strong connection between electr
  
 ## Similarities, Differences and Patterns
 
++mean electricity access by income and region
 ![.](mean_electricity_access_by_income_region.jpg)
 
+This graph shows there is a correlation between income category and electricity access. For all regions, it the higher income groups that have access greater access to electricity.This is an indicative similarity or pattern.
+
+-Higher Income, Higher Access: There's a clear trend where higher-income groups tend to have greater access to electricity. For instance, the high-Income group in Sub-Saharan Africa has the highest access at 99.20%.
+
+-Regional Variations:  Different regions have varying levels of access, with the Middle East & North Africa generally having higher access than Sub-Saharan Africa for comparable income groups.
+
+-Income Disparity:  There is a significant drop in electricity access as income levels decrease.
+
+ The Low-Income group in Sub-Saharan Africa has the lowest access at just *28.43%*
+
+This graph highlights the disparity in electricity access across different income levels and regions, reflecting the broader challenges of energy inequality. It's a powerful visual representation of how socioeconomic status can impact the quality of life, including basic utilities like electricity.
+
++income group and region counts/percentage
 ![.](Income_groups_regions_counts_percent.jpg)
 
 
