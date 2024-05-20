@@ -136,7 +136,7 @@ The data analysis, also reveals that there is a strong connection between electr
  
 ## Similarities, Differences and Patterns
 
-+mean electricity access by income and region
+ + mean electricity access by income and region
 ![.](mean_electricity_access_by_income_region.jpg)
 
 This graph shows there is a correlation between income category and electricity access. For all regions, it the higher income groups that have access greater access to electricity.This is an indicative similarity or pattern.
@@ -151,7 +151,7 @@ This graph shows there is a correlation between income category and electricity 
 
 This graph highlights the disparity in electricity access across different income levels and regions, reflecting the broader challenges of energy inequality. It's a powerful visual representation of how socioeconomic status can impact the quality of life, including basic utilities like electricity.
 
-+income group and region counts/percentage
+  + income group and region counts/percentage
 ![.](Income_groups_regions_counts_percent.jpg)
 
 
