@@ -59,7 +59,7 @@ in Africa.
 
 Data preprocessing was done on the data to clean and transform the data for analysis.
 
-  + Data Cleaning: Identifying the extent of missing values and outliers in the dataset. 
+  + Data Cleaning: The plot below is a visual representation of the extent of missing values. The Ridge (linear regression) was used to fill in the missing values. This is because, we evaluated the dataset to ascertain it type(s) of value missingness, and the options that best suits it. Ridge regression was a better option for the missing values and therefore, was used in filling of the missing values.
 ![.](missing_value_evaluation.jpg)
 
 
