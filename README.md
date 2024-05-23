@@ -163,6 +163,8 @@ In this project, the dataset was used to build Ridge, Lasso and Linear regressio
 ## Model Deployment and Forecasting Electricity Access (2021-2030)
 The models was deployed as a Streamlit App. Below is the link to the app: https://electricityaccess.streamlit.app/
 
+To use the model for electricity access forecasting, first select a country by clicking the drop-down menu, and then select a lower band (year) and upper band(year) and the app automatically shows a visaulization of the  forecast.
+
 
 
 # Results and Discussion
