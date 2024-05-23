@@ -155,7 +155,9 @@ This graph highlights the disparity in electricity access across different incom
 
 
 
-## Predictive Modeling
+## Machine Learning Model Development 
+
+In this project, the dataset was used to build 
 
 insert visual here
 
