@@ -157,19 +157,16 @@ This graph highlights the disparity in electricity access across different incom
 
 ## Machine Learning Model Development 
 
-In this project, the dataset was used to build 
-
-insert visual here
+In this project, the dataset was used to build Ridge, Lasso and Linear regression models. This three models powers the Streamlit App, which makes prediction by taking the average of the predictions from the three models.
 
 
-
-
-# Model Deployment and Forecasting Electricity Access (2021-2030)
-
+## Model Deployment and Forecasting Electricity Access (2021-2030)
+The models was deployed as a Streamlit App. Below is the link to the app: https://electricityaccess.streamlit.app/
 
 
 
 # Results and Discussion
+
 
 
 
