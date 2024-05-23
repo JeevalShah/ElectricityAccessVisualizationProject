@@ -169,8 +169,17 @@ To use the model for electricity access forecasting, first select a country by c
 ![.](
 Streamlit_app_interface.png)
 
+ + Example forecast for Burndi
+![.](
+Example_forecast.png)
 
 # Results and Discussion
+The dataset classified the population access to electricity based on income and demography (region). But data analysis of the trends reveals that in all regions people in the higher income bracket had more access to electricity. This could be tied to pricing and affordability by the higher income class. Higher income means higher electricity access.
+
+
+The forecast also suggests, that access to electricity in Africa will continue to rise possibly because of the increase awareness and demand for more power geared towards industrialization.
+
+It is important that government and agencies utilize the forecast to provision for more infrastructure to increase access to electricity.
 
 
 
