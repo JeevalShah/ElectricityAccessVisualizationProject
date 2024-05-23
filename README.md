@@ -165,6 +165,9 @@ The models was deployed as a Streamlit App. Below is the link to the app: https:
 
 To use the model for electricity access forecasting, first select a country by clicking the drop-down menu, and then select a lower band (year) and upper band(year) and the app automatically shows a visaulization of the  forecast.
 
+ + The Streamlit App Interface
+![.](
+Streamlit_app_interface.png)
 
 
 # Results and Discussion
