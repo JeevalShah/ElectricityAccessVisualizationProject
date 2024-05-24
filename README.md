@@ -159,6 +159,10 @@ This graph highlights the disparity in electricity access across different incom
 
 In this project, the dataset was used to build Ridge, Lasso and Linear regression models. This three models powers the Streamlit App, which makes prediction by taking the average of the predictions from the three models.
 
+The dataset was also used to train ARIMA models for each country and the mean absolute error computed.
+
+
+The results shows that some ARIMA models had low MAE. The results are included in a csv file in the file section of the repository.
 
 ## Model Deployment and Forecasting Electricity Access (2021-2030)
 The models was deployed as a Streamlit App. Below is the link to the app: https://electricityaccess.streamlit.app/
