@@ -180,6 +180,8 @@ Forecast.png)
 # Results and Discussion
 The dataset classified the population access to electricity based on income and demography (region). But data analysis of the trends reveals that in all regions people in the higher income bracket had more access to electricity. This could be tied to pricing and affordability by the higher income class. Higher income means higher electricity access.
 
+With respect to the deployment of the model, we chose to deploy: Lasso, Ridge and Linear. This is because the prediction was an average of the three models, which is considered a more optimal result compared to deploying ARIMA models each for all countries. The three models was deployed as a Streamlit App as opposed to deploying about 54 models for all the countries.
+
 
 The forecast also suggests, that access to electricity in Africa will continue to rise possibly because of the increase awareness and demand for more power geared towards industrialization.
 
